@@ -1,0 +1,6 @@
+name: CustomSkulls
+version: 0.1
+main: com.samczsun.customskulls.CustomSkulls
+author: samczsun
+commands:
+  customskull: {}
